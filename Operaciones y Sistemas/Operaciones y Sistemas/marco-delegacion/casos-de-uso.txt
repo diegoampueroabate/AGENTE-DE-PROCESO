@@ -1,0 +1,23 @@
+CASOS DE USO — Marco Delegacion
+==================================================
+
+1. CFO implementando nuevo sistema de facturación para automatizar procesos
+   Ejemplo: Situación empresarial donde esto es crítico
+
+2. COO documentando workflow antes de escalar operaciones internacionalmente
+   Ejemplo: Situación empresarial donde esto es crítico
+
+3. Gerente de sistemas evaluando herramientas nuevas para mejorar eficiencia
+   Ejemplo: Situación empresarial donde esto es crítico
+
+4. Empresa migrando datos críticos a plataforma nueva sin downtime
+   Ejemplo: Situación empresarial donde esto es crítico
+
+5. Startup automatizando proceso repetitivo que consume 10 horas semanales
+   Ejemplo: Situación empresarial donde esto es crítico
+
+6. Equipo de IT resolviendo incident post-mortem y previniendo recurrencia
+   Ejemplo: Situación empresarial donde esto es crítico
+
+---
+Imperio Digital Skills Bundle

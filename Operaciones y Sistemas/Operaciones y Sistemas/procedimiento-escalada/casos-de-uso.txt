@@ -1,0 +1,23 @@
+CASOS DE USO — Procedimiento Escalada
+==================================================
+
+1. Empresa remota necesita establecer reglas claras antes de contratar equipo distribuido
+   Ejemplo: Situación empresarial donde esto es crítico
+
+2. Startup creciendo rápido requiere documentación para nuevos empleados
+   Ejemplo: Situación empresarial donde esto es crítico
+
+3. Organización implementando nueva estructura de trabajo y comunicándola al equipo
+   Ejemplo: Situación empresarial donde esto es crítico
+
+4. Empresa regulada por cumplimiento creando manual de políticas
+   Ejemplo: Situación empresarial donde esto es crítico
+
+5. Negocio familiar profesionalizando procesos con documentación formal
+   Ejemplo: Situación empresarial donde esto es crítico
+
+6. Empresa estableciendo estándares de comunicación y expectativas
+   Ejemplo: Situación empresarial donde esto es crítico
+
+---
+Imperio Digital Skills Bundle

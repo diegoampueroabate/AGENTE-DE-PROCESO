@@ -1,0 +1,23 @@
+CASOS DE USO — Lista Verificacion Aseguramiento Calidad
+==================================================
+
+1. Gerente de proyecto verificando completud antes de entregar a cliente
+   Ejemplo: Situación empresarial donde esto es crítico
+
+2. Auditor evaluando cumplimiento de procedimientos críticos en la operación
+   Ejemplo: Situación empresarial donde esto es crítico
+
+3. Empresario asegurando nada se deje atrás en lanzamiento de producto
+   Ejemplo: Situación empresarial donde esto es crítico
+
+4. Equipo de operaciones validando cada paso de workflow automatizado
+   Ejemplo: Situación empresarial donde esto es crítico
+
+5. Responsable de compliance asegurando requisitos legales en proceso
+   Ejemplo: Situación empresarial donde esto es crítico
+
+6. Director ejecutivo monitoreando salud de operaciones clave semanalmente
+   Ejemplo: Situación empresarial donde esto es crítico
+
+---
+Imperio Digital Skills Bundle

@@ -1,0 +1,23 @@
+CASOS DE USO — Incorporacion Colaboradores
+==================================================
+
+1. Agencia que contrata a un operador nuevo para gestionar cuentas de 2 clientes
+   Ejemplo: Llevar a la persona de cero a operar sola sin que el cliente note la curva de aprendizaje
+
+2. BPO escalando equipo de 5 a 12 personas sin perder calidad de servicio
+   Ejemplo: Estandarizar el onboarding para que cada nuevo ingreso reciba el mismo entrenamiento
+
+3. Empresa que pierde conocimiento cada vez que rota un colaborador
+   Ejemplo: Asegurar que lo aprendido quede en SOPs y base de conocimiento, no en la persona
+
+4. Responsable de operaciones que entrena distinto a cada persona que recibe
+   Ejemplo: Unificar el proceso con checklist y criterio de "Listo para Operar"
+
+5. Nuevo colaborador comete errores en cuentas reales por falta de capacitación
+   Ejemplo: Definir ejecución supervisada antes de dar autonomía sobre la cuenta del cliente
+
+6. Empresa que tarda semanas en volver productivo a cada ingreso
+   Ejemplo: Reducir el tiempo de cero a productivo con un plan por hitos de 30 días
+
+---
+Imperio Digital Skills Bundle

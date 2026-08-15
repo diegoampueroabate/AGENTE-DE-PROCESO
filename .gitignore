@@ -1,0 +1,26 @@
+﻿# --- Dependencias / builds ---
+node_modules/
+.next/
+out/
+dist/
+build/
+.turbo/
+.cache/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# --- Secretos ---
+.env
+.env.*
+!.env*.example
+*.pem
+*.key
+*.p12
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
