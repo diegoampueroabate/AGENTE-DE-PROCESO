@@ -63,6 +63,8 @@ Los únicos dos cruces de gasto contra venta que existen en toda la cartera:
 ## Finanzas de AGC
 
 - [[Estado-de-la-facturacion]] — WASABIL no puede emitir, y los dos hallazgos de las rendiciones de Ferreira
+- [[Stack-y-presupuesto-de-herramientas]] — qué se paga hoy, qué falta y dónde se puede bajar de verdad
+- [[SOP-Rotacion-de-Credenciales]] — 17 credenciales únicas: 5 se rotan, 7 se revocan
 
 ## Riesgos abiertos
 
