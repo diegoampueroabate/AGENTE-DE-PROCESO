@@ -107,16 +107,22 @@ Hay que actualizar el número, el ángulo de anuncio de filtro directo y el anti
 
 ### Consecuencia para la cartera actual, que conviene mirar de frente
 
-**Corrección del 2026-08-17.** Antes escribí acá que "la mayoría de los clientes actuales no cumple el piso". Lo afirmé sin dato. Con la información que apareció después, dos de los cuatro que pagan lo superan con holgura:
+**Corrección del 2026-08-17.** Escribí acá que "la mayoría de los clientes actuales no cumple el piso". Lo afirmé sin dato, y era falso. Leídos los 360 del Negocio de cada cliente, la facturación declarada es:
 
-| Cliente | Facturación conocida | ¿Cumple $20M? |
-|---|---|---|
-| Óptica Ferreira | $95.780.000 (marzo, medido) | **Sí**, con mucha holgura |
-| Sweet Mayorista | $24M a $40M mensuales (declarado en su 360) | **Sí** |
-| Kristus | Solo se conoce la gira norte: $11.757.999 en ~6 semanas | Se desconoce la base mensual |
-| MQFJOYAS | Sin dato | Se desconoce |
+| Cliente | Facturación mensual | ¿Cumple $20M? |
+|---|---|:-:|
+| Óptica Ferreira | $95.780.000 (marzo, **medido**) | ✅ |
+| Sweet Mayorista | $24M – $40M | ✅ |
+| MQFJOYAS | $30M – $35M (últimos 3 meses) | ✅ |
+| Kristus | $30M – $35M · 4 locales · +11 años | ✅ |
+| *Carlitos* (cerrado) | $120M – $130M · $6M diarios | ✅ |
+| *Odawe* (cerrado) | $20M – $70M por live | ✅ |
 
-Lo correcto es: **de los cuatro que pagan, dos califican y de dos no se sabe.** Que no es lo mismo que lo que dije.
+**Los cuatro clientes que pagan superan el piso.** Y también lo superaban los dos cerrados con `valor_documental: alto`.
+
+Eso invierte la lectura estratégica: el piso de $20.000.000 **no amenaza la cartera actual — describe exactamente el perfil que AGC ya atiende**. No hay que soltar a nadie ni reencuadrar nada. Lo que el piso hace es impedir que entren clientes más chicos que los que ya funcionan, que es precisamente para lo que se subió.
+
+Queda en pie el riesgo que el v2.0 nombra: con piso de $20M el universo de prospectos se reduce y esas empresas no llegan por pauta igual que antes. Hace falta prospección directa y referidos.
 
 Eso no obliga a echar a nadie: el piso rige para lo que **entra**, y los clientes vigentes tienen contrato. Pero sí significa dos cosas concretas:
 

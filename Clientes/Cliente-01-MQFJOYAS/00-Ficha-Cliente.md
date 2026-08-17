@@ -53,3 +53,11 @@ La cuenta principal figuraba como huérfana: sin nombre comercial y sin portafol
 Inventario completo en [[00-Indice-Material]] (carpeta `07-Material-Historico/`). Los `.docx` ya están en la bóveda; los `.pdf` y `.xlsx` siguen en `~/Downloads` y están indexados ahí.
 
 Qué entregables tiene y cuáles le faltan: [[Catalogo-de-Entregables]].
+
+## Facturacion declarada
+
+**$30M a $35M CLP mensuales** (ultimos 3 meses, declarado en su 360). Supera el piso de $20.000.000.
+
+El live exclusivo para mayoristas es el 90%+ de las ventas, activado en enero 2025. Marcela: *"eso cambio la facturacion al mil por ciento"*. Un ano de transformacion; garantia en todos los productos.
+
+Fuente: su 360 del Negocio, en `07-Material-Historico/00-Indice-Material.md`. Es dato **declarado por el cliente**, no verificado por AGC.

@@ -67,3 +67,11 @@ Como el conector de Meta esta deshabilitado, este archivo es la unica fuente de 
 ROAS por ciudad: Calama 23,4x · Iquique 17,0x · Antofagasta 7,4x · Arica 7,9x. Se invirtio casi lo mismo en las cuatro. Reasignar segun rendimiento es la palanca mas barata que existe.
 
 Dos datos abiertos: el costo real de mercaderia (hoy supuesto en 40% de margen) y la conciliacion de las dos planillas de gasto, que no cuadran.
+
+## Facturacion declarada
+
+**$30M a $35M CLP mensuales** (declarado en su 360). Supera el piso de $20.000.000.
+
+Empresa familiar, +11 anos en el rubro, plata certificada Ley 925 importada directo. **4 locales fisicos**: Concepcion, Talcahuano, Calama y Copiapo, mas tienda online. Linea mayorista en desarrollo.
+
+Fuente: su 360 del Negocio, en `07-Material-Historico/00-Indice-Material.md`. Es dato **declarado por el cliente**, no verificado por AGC.
