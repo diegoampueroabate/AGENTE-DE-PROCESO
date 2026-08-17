@@ -58,6 +58,7 @@ Los únicos dos cruces de gasto contra venta que existen en toda la cartera:
 - [[360-del-Negocio]] — el diagnóstico que abre la relación
 - [[Manual-Ventas-y-Marketing]] — extraído de lo que ya se entregó, no inventado
 - [[SOP-Atencion-por-WhatsApp]] — el paso donde se cae la venta en los tres clientes
+- [[SOP-Maximizar-GoHighLevel]] — decisión: se explota, no se reemplaza. La palanca son los Snapshots
 - [[SOP-Comunicacion-y-Reporting]] · [[SOP-Cumplimiento-General]]
 
 ## Finanzas de AGC
