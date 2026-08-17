@@ -17,17 +17,51 @@ Precios verificados el 17-ago-2026. Los de video con IA cambian varias veces al 
 |---|---|---:|---|
 | **Claude** | Max 5x | **100** | Los agentes. Es el motor de todo esto |
 | **GoHighLevel** | Unlimited | **297** | CRM de cliente, automatizaciones, subcuentas ilimitadas + API |
-| | | **397** | **ya comprometido** |
+| **GoHighLevel — WhatsApp** | consumo | **~130** | Mensajería a clientes |
+| | | **527** | **ya comprometido** |
 
-**Quedan USD 203.** Ese es el presupuesto real disponible, no 600.
+**Quedan USD 73 de los 600.** El 88% del presupuesto está en dos proveedores, y GoHighLevel solo es **$427 — el 71% del total.**
 
 ### Sobre el plan de GoHighLevel
 
 $297 es el plan **Unlimited**: subcuentas ilimitadas y acceso a API. El de abajo ($97) permite **3 subcuentas** — con 4 clientes que pagan más 2 sin cobro, no alcanza. El de arriba ($497) sirve para revender la plataforma con marca propia; no aplica hoy.
 
-**Está en el plan correcto.** Con una advertencia: SMS, llamadas, correos y las funciones de IA **se cobran aparte por consumo**, típicamente entre $20 y $150 al mes según volumen. Ese gasto no aparece en la mensualidad y conviene medirlo antes de dar el presupuesto por cerrado.
+**Está en el plan correcto para lo que hace.** Bajar a $97 solo tendría sentido si la cartera cayera a 3 clientes — lo contrario del objetivo.
 
-Bajar a $97 solo tendría sentido si la cartera cayera a 3 clientes — que es exactamente lo contrario del objetivo.
+**Pero el gasto real es $427, no $297.** Los ~$130 de WhatsApp son consumo que no aparece en la mensualidad, y ahí está la pregunta que Diego planteó bien: *¿se está pagando $427 al mes básicamente por conectar clientes a WhatsApp?*
+
+### Qué son realmente esos $130
+
+Meta **no** cobra eso. GoHighLevel actúa de intermediario (BSP) y le agrega margen al precio de Meta — típicamente entre $0,003 y $0,010 por mensaje encima de la tarifa real.
+
+Y hay un detalle que cambia el cálculo por completo: **la ventana gratuita de 72 horas.** Cuando alguien inicia una conversación desde un anuncio de Click-to-WhatsApp, los mensajes no-plantilla **no se cobran** durante esas 72 horas. Y toda respuesta dentro de las 24 horas del último mensaje del cliente también es gratis.
+
+**Ese es exactamente el modelo de todos los clientes de AGC.** Ferreira agenda operativos desde anuncios a WhatsApp. Sweet, Odawe y Kristus venden por live y cierran por WhatsApp. La mayor parte del volumen debería caer en ventana gratuita.
+
+Si eso es así, **de los $130 la mayoría es margen del intermediario, no costo de Meta.**
+
+### Las tres salidas, con números
+
+| Camino | Costo/mes | Qué se gana | Qué se pierde |
+|---|---:|---|---|
+| **Quedarse** | 427 | Cero riesgo, cero trabajo | Sigue el margen del intermediario |
+| **WhatsApp Cloud API directo** desde el CRM propio | ~297 + consumo real de Meta | Se elimina el margen. Es además el "empleado digital" que el programa ya promete | Hay que construir el inbox: webhook, plantillas, ventana de 24 h. Trabajo real |
+| **Chatwoot autohospedado** | "gratis" | — | **Trampa.** El costo real con servidor, DevOps y mantención es USD 8.000-24.000 al año. Más caro que GHL |
+
+**Chatwoot autohospedado se descarta.** Parece gratis porque el software lo es; el costo está en mantenerlo corriendo, parcheado y disponible. Para una agencia sin equipo de infraestructura es cambiar $427 al mes por un problema operativo permanente.
+
+### La recomendación
+
+**No migrar todavía. Medir primero, y son 10 minutos.**
+
+En el panel de GoHighLevel, ver la factura desglosada del último mes: cuántos mensajes, de qué categoría (marketing / utilidad / servicio), y cuánto cobró Meta contra cuánto cobró GHL. Ese desglose responde la pregunta de fondo:
+
+- Si la mayor parte del volumen cae en ventana gratuita y aun así se pagan $130 → **es margen puro, y migrar tiene un retorno claro de ~$1.500 al año.**
+- Si el volumen es alto y Meta cobra la mayor parte → migrar ahorra poco, y el trabajo no se justifica.
+
+Es la misma regla que aplica a todo lo demás en esta operación: **sin el dato, la decisión es una apuesta.**
+
+Y una nota sobre el orden: si se migra, el momento correcto es **cuando el CRM propio ya esté corriendo** (etapa 3 o 4 del plan). Migrar la mensajería de cuatro clientes activos a una plataforma que todavía no existe es exactamente cómo se rompe un servicio en producción.
 
 ---
 
