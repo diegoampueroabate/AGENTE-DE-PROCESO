@@ -1,13 +1,13 @@
 ---
 tipo: planeacion
 creado: 2026-08-17
-presupuesto_objetivo: USD 500 / mes
+presupuesto_objetivo: USD 600 / mes
 estado: propuesta — requiere confirmar qué se paga hoy
 ---
 
 # Stack de herramientas y presupuesto
 
-Objetivo declarado: sostener el ecosistema con **USD 500 al mes** o menos.
+Objetivo declarado: sostener el ecosistema con **USD 600 al mes** o menos. *(Subido desde 500 el 17-ago.)*
 
 Precios verificados el 17-ago-2026. Los de video con IA cambian varias veces al año — están marcados.
 
@@ -19,7 +19,7 @@ Precios verificados el 17-ago-2026. Los de video con IA cambian varias veces al 
 | **GoHighLevel** | Unlimited | **297** | CRM de cliente, automatizaciones, subcuentas ilimitadas + API |
 | | | **397** | **ya comprometido** |
 
-**Quedan USD 103.** Ese es el presupuesto real disponible, no 500.
+**Quedan USD 203.** Ese es el presupuesto real disponible, no 600.
 
 ### Sobre el plan de GoHighLevel
 
@@ -43,7 +43,7 @@ Bajar a $97 solo tendría sentido si la cartera cayera a 3 clientes — que es e
 
 **Vercel Hobby alcanza de sobra.** Es una app interna de un usuario. Pro son $20 que hoy no compran nada.
 
-**Total con el CRM: USD 422.** Quedan **78**.
+**Total con el CRM: USD 422.** Quedan **178**.
 
 ---
 
@@ -102,9 +102,22 @@ Si algo de esto se prueba, que sea **$9 al mes en Higgsfield Basic durante un me
 | **Base operativa** | **422** |
 | Prueba de video (opcional, 1 mes) | 9 |
 | **Total** | **431** |
-| Margen dentro de los 500 | **69** |
+| Margen dentro de los 600 | **169** |
 
 Más el consumo variable de GoHighLevel ($20-150), que es la única cifra que puede romper el presupuesto y hoy nadie ha medido.
+
+## Qué comprar con los USD 169 de margen — en orden
+
+El presupuesto subió de 500 a 600. Eso da aire real, pero **no cambia la recomendación de no comprar herramientas todavía.** El orden correcto de gasto es este:
+
+| Prioridad | Qué | USD/mes | Por qué antes que una herramienta nueva |
+|:-:|---|---:|---|
+| 1 | **Reserva para el consumo variable de GHL** | ~80 | Es el único gasto que ya está corriendo y nadie ha medido. Tapar ese hueco antes de abrir otro |
+| 2 | **Supabase Pro del proyecto de un cliente**, si el CRM se le instala a alguien | 25 | Es entregable facturable, no costo |
+| 3 | Prueba acotada de video con IA | 9 | Un mes, con criterio de éxito escrito antes |
+| | **Sin asignar** | ~55 | Deliberadamente libre |
+
+Dejar margen sin asignar es una decisión, no un descuido: cuando el CRM esté corriendo van a aparecer costos que hoy no se pueden anticipar — almacenamiento, correos transaccionales sobre el tramo gratuito, o una licencia de plataforma que hoy paga AGC y debería pagar el cliente.
 
 ## Dónde se puede bajar de verdad
 
