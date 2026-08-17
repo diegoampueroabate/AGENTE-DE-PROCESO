@@ -64,3 +64,9 @@ Hasta el 2026-08-16, `AGENTE ADS MANAGER/CLAUDE.md` registraba a Óptica Ferreir
 Inventario completo en [[00-Indice-Material]] (carpeta `07-Material-Historico/`). Los `.docx` ya están en la bóveda; los `.pdf` y `.xlsx` siguen en `~/Downloads` y están indexados ahí.
 
 Qué entregables tiene y cuáles le faltan: [[Catalogo-de-Entregables]].
+
+## Dato de venta real
+
+[[2026-03-venta-vs-inversion]] — los 59 operativos de marzo 2026 con venta neta, gasto, ROAS y conversaciones. Venta $95.780.000 · pauta $10.123.080 · **ROAS 9,46x**. Es el unico cruce completo de gasto contra venta que existe en toda la cartera de AGC.
+
+Falta el margen, el costo del operativo y los cinco meses posteriores. Se piden en el proximo comite: sin eso el dato demuestra que la publicidad funciona, no que el negocio sea rentable.
