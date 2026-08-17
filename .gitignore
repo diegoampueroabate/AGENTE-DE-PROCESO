@@ -1,4 +1,4 @@
-﻿# --- Dependencias / builds ---
+# --- Dependencias / builds ---
 node_modules/
 .next/
 out/
@@ -35,4 +35,5 @@ desktop.ini
 
 # Material historico: nunca commitear documentos con tokens
 **/PIXEL*TOKEN*
-**/CREDENCIALES*
+**/CREDENCIALES*.pdf
+**/CREDENCIALES*.docx
