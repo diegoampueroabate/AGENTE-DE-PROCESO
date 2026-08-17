@@ -107,7 +107,16 @@ Hay que actualizar el número, el ángulo de anuncio de filtro directo y el anti
 
 ### Consecuencia para la cartera actual, que conviene mirar de frente
 
-El piso de $20.000.000 mensuales **no lo cumple la mayoría de los clientes actuales**. Con el criterio v2.0, buena parte de la cartera de hoy no se firmaría.
+**Corrección del 2026-08-17.** Antes escribí acá que "la mayoría de los clientes actuales no cumple el piso". Lo afirmé sin dato. Con la información que apareció después, dos de los cuatro que pagan lo superan con holgura:
+
+| Cliente | Facturación conocida | ¿Cumple $20M? |
+|---|---|---|
+| Óptica Ferreira | $95.780.000 (marzo, medido) | **Sí**, con mucha holgura |
+| Sweet Mayorista | $24M a $40M mensuales (declarado en su 360) | **Sí** |
+| Kristus | Solo se conoce la gira norte: $11.757.999 en ~6 semanas | Se desconoce la base mensual |
+| MQFJOYAS | Sin dato | Se desconoce |
+
+Lo correcto es: **de los cuatro que pagan, dos califican y de dos no se sabe.** Que no es lo mismo que lo que dije.
 
 Eso no obliga a echar a nadie: el piso rige para lo que **entra**, y los clientes vigentes tienen contrato. Pero sí significa dos cosas concretas:
 

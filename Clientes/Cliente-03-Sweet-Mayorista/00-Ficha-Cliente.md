@@ -51,3 +51,11 @@ El nombre de la cuenta en Meta está escrito **"Sweet Matorista"** (con T). Es u
 Inventario completo en [[00-Indice-Material]] (carpeta `07-Material-Historico/`). Los `.docx` ya están en la bóveda; los `.pdf` y `.xlsx` siguen en `~/Downloads` y están indexados ahí.
 
 Qué entregables tiene y cuáles le faltan: [[Catalogo-de-Entregables]].
+
+## Facturacion declarada y hallazgo critico
+
+Su 360 del Negocio declara: **8+ anos en el mercado · factura entre $24M y $40M CLP mensuales · 8 personas en el equipo · 95% clientes revendedores.** Supera el piso de $20.000.000 del programa.
+
+**Brecha critica textual de su propio 360:** *"El registro de ventas del live se lleva en Excel manual. El sistema de facturacion se usa solo para clientes que lo solicitan. El 90%+ de las ventas no existe en el sistema."*
+
+Eso significa que **no hay forma de cruzar gasto contra venta real en Sweet** — no porque falte pedir el dato, sino porque el dato no existe registrado. Es el hallazgo que justifica instalar el CRM antes que cualquier optimizacion de campana. Ver [[ROAS-no-es-rentabilidad]].
