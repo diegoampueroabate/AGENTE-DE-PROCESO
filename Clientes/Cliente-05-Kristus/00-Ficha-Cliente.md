@@ -57,3 +57,13 @@ Refirió a [[Cliente-09-MASAIFIT-Calama]] — la hermana del contacto de esta cu
 Inventario completo en [[00-Indice-Material]] (carpeta `07-Material-Historico/`). Los `.docx` ya están en la bóveda; los `.pdf` y `.xlsx` siguen en `~/Downloads` y están indexados ahí.
 
 Qué entregables tiene y cuáles le faltan: [[Catalogo-de-Entregables]].
+
+## Dato de venta real
+
+[[2026-08-gira-norte-y-proyeccion-sur]] — gira zona norte con estado de resultado completo. Venta $11.757.999 · pauta $760.323 · **ROAS 15,46x** · **margen neto 12,6%**.
+
+Como el conector de Meta esta deshabilitado, este archivo es la unica fuente de datos de la cuenta.
+
+ROAS por ciudad: Calama 23,4x · Iquique 17,0x · Antofagasta 7,4x · Arica 7,9x. Se invirtio casi lo mismo en las cuatro. Reasignar segun rendimiento es la palanca mas barata que existe.
+
+Dos datos abiertos: el costo real de mercaderia (hoy supuesto en 40% de margen) y la conciliacion de las dos planillas de gasto, que no cuadran.
