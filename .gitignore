@@ -24,3 +24,15 @@ __pycache__/
 Thumbs.db
 desktop.ini
 *.log
+
+# Obsidian: estado local de ventanas, no versionar
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian: estado local de ventanas
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Material historico: nunca commitear documentos con tokens
+**/PIXEL*TOKEN*
+**/CREDENCIALES*
