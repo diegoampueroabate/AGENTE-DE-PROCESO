@@ -40,6 +40,19 @@ Nota: MQFJOYAS no tiene token propio en el archivo (figura `PENDIENTE`). Se oper
 
 ---
 
+## Hallazgo del 20-ago: los tokens estaban en seis lugares más
+
+Al preparar los repos para compartir aparecieron **seis scripts `.py` versionados** con el token escrito literal (`TOKEN = "EAA..."`):
+
+- `proyectos/grupal_corp/Anuncios/ADS JUNIO/_build/` — 3 archivos
+- `proyectos/metodo_starter/anuncios/_upload_ascii/` — 3 archivos
+
+Ya salieron del control de versiones y el `.gitignore` cubre esos patrones.
+
+**No suman credenciales nuevas:** son los mismos dos tokens que el inventario ya contaba, de Grupal Corp y Método Starter. El total de 17 no cambia.
+
+Lo que sí confirma es por qué el paso 2 va antes que cualquier rotación: **revocar el usuario de sistema invalida el token en todos los lugares a la vez**, incluidos los que nadie había encontrado. Perseguir archivo por archivo es cómo se queda uno afuera.
+
 ## Orden de ejecución
 
 Ordenado por daño posible, no por comodidad.
